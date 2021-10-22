@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "StudyingCrdts", "StudyingCrdts\StudyingCrdts.fsproj", "{9F923777-4654-4081-9521-E79CFAC4DFBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F923777-4654-4081-9521-E79CFAC4DFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F923777-4654-4081-9521-E79CFAC4DFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F923777-4654-4081-9521-E79CFAC4DFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F923777-4654-4081-9521-E79CFAC4DFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41666EF-C2C1-4AF2-BA72-3471A572109D}
+	EndGlobalSection
+EndGlobal

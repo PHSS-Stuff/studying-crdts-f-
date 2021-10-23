@@ -6,5 +6,6 @@
   <ItemGroup>
     <Compile Include="GCounter.fs" />
     <Compile Include="Program.fs" />
+    <Compile Include="PNCounter.fs" />
   </ItemGroup>
 </Project>

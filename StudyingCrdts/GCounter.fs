@@ -1,4 +1,4 @@
-﻿module GCounter
+﻿module StudyingCrdts.GCounter
 type ReplicaId = string
 type GCounter = Map<ReplicaId,int64>
 let zero: GCounter = Map.empty

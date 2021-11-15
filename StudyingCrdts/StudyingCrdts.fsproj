@@ -7,9 +7,7 @@
     <Compile Include="GCounter.fs" />
     <Compile Include="PNCounter.fs" />
     <Compile Include="VClock.fs" />
-    <Compile Include="GSet.fs" />
     <Compile Include="Program.fs" />
     <Compile Include="ORSet.fs" />
-    <Compile Include="PSet.fs" />
   </ItemGroup>
 </Project>

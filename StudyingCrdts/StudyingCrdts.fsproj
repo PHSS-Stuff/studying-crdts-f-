@@ -8,8 +8,8 @@
     <Compile Include="PNCounter.fs" />
     <Compile Include="VClock.fs" />
     <Compile Include="GSet.fs" />
-    <Compile Include="VTime.fs" />
     <Compile Include="Program.fs" />
+    <Compile Include="ORSet.fs" />
     <Compile Include="PSet.fs" />
   </ItemGroup>
 </Project>
